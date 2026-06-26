@@ -1,3 +1,3 @@
 module github.com/Lekuruu/zipstream
 
-go 1.26.4
+go 1.25.0
